@@ -59,3 +59,34 @@
 	top:  2.7vw;
 	right: 2.7vw;
 }
+
+@media (max-width: 600px){
+	.logo-gradient-square{
+		width: 50vw;
+		height: 50vw;
+		border-radius: 11.5vw;
+	}
+
+	.logo-white-square{
+		width: 42.8vw;
+		height: 42.8vw;
+		border-radius: 8.5vw;
+	}
+
+	.logo-gradient-central-circle{
+		width: 27vw;
+		height: 27vw;
+	}
+
+	.logo-white-central-circle{
+		width: 19.8vw;
+		height: 19.8vw;
+	}
+
+	.logo-small-gradient-circle{
+		width: 6.4vw;
+		height: 6.4vw;
+		top: 3.86vw;
+		right: 3.86vw;
+	}
+}
